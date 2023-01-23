@@ -13,7 +13,6 @@ public class App {
         System.out.println("test chess");
 
         UI.printBoard(chessMatch.getPieces());
-
-
+        
     }
 }
