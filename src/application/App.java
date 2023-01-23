@@ -10,6 +10,8 @@ public class App {
 
         ChessMatch chessMatch = new ChessMatch();
 
+        System.out.println("test chess");
+
         UI.printBoard(chessMatch.getPieces());
 
 
