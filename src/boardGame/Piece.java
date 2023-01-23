@@ -12,6 +12,7 @@ public class Piece
         position = null;
     }
 
+
     protected Board getBoard()
     {
         return board;
