@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ac8545-807e-4b9e-95e9-af63b352c443" name="Changes" comment="BoardException and Defensive">
+    <list default="true" id="83ac8545-807e-4b9e-95e9-af63b352c443" name="Changes" comment="ChessException and ChessPosition">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boardGame/Position.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardGame/Position.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674608370471</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="ChessException and ChessPosition">
+      <created>1674788991733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674788991733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,17 +144,7 @@
     <MESSAGE value="Layer and printing the board" />
     <MESSAGE value="Pieces &quot;King&quot; and &quot;Rook&quot; added on the board" />
     <MESSAGE value="BoardException and Defensive" />
-    <option name="LAST_COMMIT_MESSAGE" value="BoardException and Defensive" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/chess/ChessMatch.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="ChessException and ChessPosition" />
+    <option name="LAST_COMMIT_MESSAGE" value="ChessException and ChessPosition" />
   </component>
 </project>
