@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ac8545-807e-4b9e-95e9-af63b352c443" name="Changes" comment="ChessException and ChessPosition">
+    <list default="true" id="83ac8545-807e-4b9e-95e9-af63b352c443" name="Changes" comment="Colors added on the terminal">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boardGame/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boardGame/Board.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessPosition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessPosition.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674788991733</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Colors added on the terminal">
+      <created>1674790069145</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674790069145</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +155,7 @@
     <MESSAGE value="Pieces &quot;King&quot; and &quot;Rook&quot; added on the board" />
     <MESSAGE value="BoardException and Defensive" />
     <MESSAGE value="ChessException and ChessPosition" />
-    <option name="LAST_COMMIT_MESSAGE" value="ChessException and ChessPosition" />
+    <MESSAGE value="Colors added on the terminal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Colors added on the terminal" />
   </component>
 </project>

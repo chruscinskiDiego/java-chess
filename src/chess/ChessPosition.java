@@ -8,8 +8,13 @@ public class ChessPosition
     private char column;
     private char row;
 
+    public ChessPosition()
+    {
 
-    public ChessPosition(char column, char row)
+    }
+
+
+    public ChessPosition(char column, int row)
     {
         if(column < 'a' || column > 'h' || row < 1 || row > 8)
         {
@@ -17,7 +22,7 @@ public class ChessPosition
 
         }
         this.column = column;
-        this.row = row;
+        this.row = (char) row;
     }
 
     public char getColumn() {
