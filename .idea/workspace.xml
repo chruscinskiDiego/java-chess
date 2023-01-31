@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ac8545-807e-4b9e-95e9-af63b352c443" name="Changes" comment="Rook pre position mark">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chess/pieces/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/pieces/King.java" afterDir="false" />
+    <list default="true" id="83ac8545-807e-4b9e-95e9-af63b352c443" name="Changes" comment="Possible moves for king and pre position mark">
+      <change beforePath="$PROJECT_DIR$/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675127680784</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Possible moves for king and pre position mark">
+      <created>1675133104557</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675133104557</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +213,7 @@
     <MESSAGE value="Possible moves" />
     <MESSAGE value="Validate target position" />
     <MESSAGE value="Rook pre position mark" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rook pre position mark" />
+    <MESSAGE value="Possible moves for king and pre position mark" />
+    <option name="LAST_COMMIT_MESSAGE" value="Possible moves for king and pre position mark" />
   </component>
 </project>
