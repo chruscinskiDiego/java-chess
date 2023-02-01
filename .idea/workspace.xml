@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83ac8545-807e-4b9e-95e9-af63b352c443" name="Changes" comment="Possible moves for king and pre position mark">
+    <list default="true" id="83ac8545-807e-4b9e-95e9-af63b352c443" name="Changes" comment="Player turn">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/application/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/UI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chess/ChessMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chess/ChessMatch.java" afterDir="false" />
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675133104557</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Player turn">
+      <created>1675133856647</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1675133856647</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +222,7 @@
     <MESSAGE value="Validate target position" />
     <MESSAGE value="Rook pre position mark" />
     <MESSAGE value="Possible moves for king and pre position mark" />
-    <option name="LAST_COMMIT_MESSAGE" value="Possible moves for king and pre position mark" />
+    <MESSAGE value="Player turn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Player turn" />
   </component>
 </project>
